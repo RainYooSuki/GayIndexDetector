@@ -2,6 +2,8 @@
 
 一个趣味性网页应用，用于检测输入名字的"Gay指数"。通过算法分析名字特征，给出0-100的评分和幽默评价。
 
+**[Click to try it🤩👍](https://rainyoosuki.github.io/GayIndexDetector/)**
+
 ## 许可证
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
